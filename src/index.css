@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=DM+Serif+Display:ital@0;1&family=Manrope:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+:root {
+  font-family: "Manrope", sans-serif;
+  color: #f5f0e8;
+  background: #101313;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  scrollbar-color: #6f3926 #151918;
+  scrollbar-width: thin;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 320px;
+}
+button {
+  font-family: inherit;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #151918;
+  border-left: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+::-webkit-scrollbar-thumb {
+  border: 3px solid #151918;
+  border-radius: 999px;
+  background: #6f3926;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #e87843;
+}
+
+::-webkit-scrollbar-corner {
+  background: #151918;
+}
