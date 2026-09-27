@@ -12,7 +12,7 @@
 
 An elegant, responsive stopwatch experience built with React, Vite, and Tailwind CSS. Track elapsed time down to centiseconds, record lap splits, and stay focused with a refined timekeeper interface.
 
-[Live Demo](http://127.0.0.1:5173/) · [Report an Issue](../../issues)
+[Live Demo](https://timekeeper-stopwatch-app.vercel.app/) · [Report an Issue](../../issues)
 
 </div>
 
